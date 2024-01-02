@@ -1,0 +1,15 @@
+.driver-details-container {
+    background-color: white;
+    padding-left: 10px;
+}
+
+.driver-details-item {
+    background-color: white;
+}
+
+.driver-details-text {
+    text-align: left;
+    width: 80%;
+    display: flex; 
+    justify-content: space-between;
+}

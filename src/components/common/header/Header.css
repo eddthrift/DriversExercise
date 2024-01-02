@@ -1,0 +1,11 @@
+.header-container{
+    height: 75px;
+    width: 100%;
+    background-color: grey;
+    padding: 5px;
+    padding-left: 10px;
+}
+
+.header-container > img {
+    height: 90%;
+}

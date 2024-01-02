@@ -1,0 +1,16 @@
+.menu-container{
+    background-color: red;
+    padding-bottom: 25px;
+}
+
+.menu-link{
+    color: white;
+    font-size: x-large;
+    padding-top: 25px;
+    padding-left: 30px;
+    text-decoration: none;
+}
+
+.menu-link:hover{
+    color: lightgray;
+}

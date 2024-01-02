@@ -1,0 +1,44 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  className="menu-container MuiBox-root css-0"
+>
+  <div
+    className="MuiStack-root css-nen11g-MuiStack-root"
+  >
+    <a
+      className="menu-link"
+      href="/"
+      onClick={[Function]}
+    >
+      •   
+      Home
+    </a>
+    <a
+      className="menu-link"
+      href="/drivers"
+      onClick={[Function]}
+    >
+      •   
+      Drivers
+    </a>
+    <a
+      className="menu-link"
+      href="/vehicles"
+      onClick={[Function]}
+    >
+      •   
+      Vehicles
+    </a>
+    <a
+      className="menu-link"
+      href="/about"
+      onClick={[Function]}
+    >
+      •   
+      About
+    </a>
+  </div>
+</div>
+`;

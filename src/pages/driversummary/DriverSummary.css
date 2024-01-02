@@ -1,0 +1,21 @@
+.summary-container {
+  padding-left: 50px;
+  padding-bottom: 20px;
+  padding-right: 50px;
+  background-color: lightgray;
+}
+
+.summary-header {
+  background-color: lightgray;
+  padding-left:7px;
+  padding-right:5px;
+  padding-top: 15px;
+  padding-bottom: 5px;
+}
+
+.summary-item {
+  background-color: lightgray;
+  padding-bottom:10px;
+  padding-left:5px;
+  padding-right:5px;
+}

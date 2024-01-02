@@ -1,0 +1,37 @@
+.activity-box-active {
+    background-color: lime;
+    height: 40px;
+    width: 40px;
+}
+
+.activity-box-idle {
+    background-color: white;
+    height: 40px;
+    width: 40px;
+}
+
+.activity-header-container {
+    padding-left: 5px;
+}
+
+.activity-duration-header {
+    height: 42px;
+    text-align: left;
+    padding-left: 2px;
+    display:flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.activity-box-header {
+    height: 42px;
+    width: 42px;
+    text-align: center;
+    display:flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.activity-header-item {
+    padding-left: 2px;
+}

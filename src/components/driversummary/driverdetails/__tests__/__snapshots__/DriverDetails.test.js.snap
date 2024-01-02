@@ -1,0 +1,107 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  className="MuiGrid-root MuiGrid-container driver-details-container css-1vam7s3-MuiGrid-root"
+>
+  <div
+    className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-3 driver-details-item css-1equabv-MuiGrid-root"
+  >
+    <div
+      className="MuiStack-root driver-details-text css-m69qwo-MuiStack-root"
+    >
+      <p
+        className="MuiTypography-root MuiTypography-body1 css-ahj2mt-MuiTypography-root"
+      >
+        Jonathon
+         
+        Wright
+      </p>
+      <p
+        className="MuiTypography-root MuiTypography-body1 css-ahj2mt-MuiTypography-root"
+      >
+        EB16FXW
+      </p>
+    </div>
+  </div>
+  <div
+    className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-1 driver-details-item css-u78q51-MuiGrid-root"
+  >
+    <p
+      className="MuiTypography-root MuiTypography-body1 css-ahj2mt-MuiTypography-root"
+    >
+      0
+       min
+    </p>
+  </div>
+  <div
+    className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-1 driver-details-item css-u78q51-MuiGrid-root"
+  >
+    <p
+      className="MuiTypography-root MuiTypography-body1 css-ahj2mt-MuiTypography-root"
+    >
+      0
+       min
+    </p>
+  </div>
+  <div
+    className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-1 driver-details-item css-u78q51-MuiGrid-root"
+  >
+    <p
+      className="MuiTypography-root MuiTypography-body1 css-ahj2mt-MuiTypography-root"
+    >
+      0
+       min
+    </p>
+  </div>
+  <div
+    className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-1 driver-details-item css-u78q51-MuiGrid-root"
+  >
+    <p
+      className="MuiTypography-root MuiTypography-body1 css-ahj2mt-MuiTypography-root"
+    >
+      0
+       min
+    </p>
+  </div>
+  <div
+    className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-1 driver-details-item css-u78q51-MuiGrid-root"
+  >
+    <p
+      className="MuiTypography-root MuiTypography-body1 css-ahj2mt-MuiTypography-root"
+    >
+      0
+       min
+    </p>
+  </div>
+  <div
+    className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4 driver-details-item css-gj1fbr-MuiGrid-root"
+  >
+    <div
+      className="MuiStack-root css-1xcvc1q-MuiStack-root"
+    >
+      <div
+        className="activity-box-idle MuiBox-root css-b7rhyr"
+      />
+      <div
+        className="activity-box-idle MuiBox-root css-b7rhyr"
+      />
+      <div
+        className="activity-box-idle MuiBox-root css-b7rhyr"
+      />
+      <div
+        className="activity-box-idle MuiBox-root css-b7rhyr"
+      />
+      <div
+        className="activity-box-idle MuiBox-root css-b7rhyr"
+      />
+      <div
+        className="activity-box-idle MuiBox-root css-b7rhyr"
+      />
+      <div
+        className="activity-box-idle MuiBox-root css-b7rhyr"
+      />
+    </div>
+  </div>
+</div>
+`;
